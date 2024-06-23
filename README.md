@@ -23,12 +23,11 @@ title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"
 title="Rider" width="40" height="40"/>&nbsp;
 
+<div id="header" align = "center">
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sornodod&layout=compact)](https://github.com/Sornodod/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sornodod&layout=compact)](https://github.com/Sornodod/github-readme-stats)
-
-
-
+</div>
           
 <!--
 **Sornodod/Sornodod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
