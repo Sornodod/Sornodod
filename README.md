@@ -1,5 +1,10 @@
 <div id="header" align = "center">
   <h1>Hi there, I'm Max! 👋</h1>
+
+  ![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2b3Z3Z3RvMmtwOXN6aGpocHhuaGR2ZHNrb3lwbjFjOWQ4cWNkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
+  
+  <div class="tenor-gif-embed" data-postid="25911862" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/clown-cat-polite-cat-clown-meme-joker-gif-25911862">Clown Cat GIF</a>from <a href="https://tenor.com/search/clown-gifs">Clown GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
   <h3> IT-student from Russia </h3>
 </div>
 
