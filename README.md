@@ -3,7 +3,7 @@
 
   ![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2b3Z3Z3RvMmtwOXN6aGpocHhuaGR2ZHNrb3lwbjFjOWQ4cWNkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
   
-  <h3> IT-student from Russia </h3>
+  <h3> IT-engineer from Russia </h3>
 </div>
 
 <h3>I recently signed up on GitHub. I will update my profile gradually)</h3>
